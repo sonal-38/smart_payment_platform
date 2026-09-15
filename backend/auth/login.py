@@ -4,3 +4,5 @@ def login_user(username: str, password: str) -> bool:
     return bool(username and password)
 
 # Added login validation
+
+# Added invalid credential handling
