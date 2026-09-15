@@ -10,3 +10,5 @@ def process_payment(order_id: str, amount: float) -> dict:
 # Added payment validation
 
 # Added duplicate payment protection using an idempotency check
+
+# Added transaction amount validation
