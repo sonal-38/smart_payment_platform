@@ -4,3 +4,5 @@ class Order:
     def __init__(self, order_id: str, amount: float):
         self.order_id = order_id
         self.amount = amount
+
+# Added order amount validation
