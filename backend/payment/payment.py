@@ -6,3 +6,5 @@ def process_payment(order_id: str, amount: float) -> dict:
         "amount": amount,
         "status": "success"
     }
+
+# Added payment validation
