@@ -8,3 +8,6 @@ repeated database queries.
 ## Retry Mechanism
 
 Payment operations include retry handling for temporary failures.
+
+## Authentication Token Handling
+Token refresh handling is used to reduce unexpected session expiration.
