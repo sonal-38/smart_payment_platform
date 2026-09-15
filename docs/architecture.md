@@ -10,3 +10,6 @@ and testing modules.
 - Orders
 - Database
 - Tests
+
+## Database Reliability
+Database connections include timeout and health-check handling.
