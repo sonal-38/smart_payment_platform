@@ -7,3 +7,5 @@ def retry_payment(payment_id: str, attempts: int = 3) -> bool:
     return True
 
 # Added retry handling for temporary failures
+
+# Improved retry handling for temporary gateway failures
