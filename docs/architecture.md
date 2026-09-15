@@ -10,3 +10,6 @@ and testing modules.
 - Orders
 - Database
 - Tests
+
+## Payment Caching
+Redis is used as a shared cache for frequently accessed payment data when multiple application instances are running.
