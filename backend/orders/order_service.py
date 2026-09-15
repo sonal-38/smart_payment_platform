@@ -6,3 +6,5 @@ def create_order(order_id: str, amount: float) -> dict:
         "amount": amount,
         "status": "created"
     }
+
+# Added order status management
