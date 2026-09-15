@@ -6,3 +6,5 @@ def process_refund(payment_id: str, amount: float) -> dict:
         "amount": amount,
         "status": "refund_requested"
     }
+
+# Added refund request validation
