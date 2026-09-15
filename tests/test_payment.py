@@ -4,3 +4,5 @@ def test_payment():
     assert True
 
 # Added payment failure test
+
+# Added timeout failure scenario
