@@ -8,3 +8,5 @@ def process_payment(order_id: str, amount: float) -> dict:
     }
 
 # Added payment validation
+
+# Added caching preparation for frequently accessed payment data
