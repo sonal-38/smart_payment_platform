@@ -1,0 +1,10 @@
+[33m20a114e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Add payment failure tests
+[33mb087ff6[m Improve authentication validation
+[33m844cae8[m Improve database connection handling
+[33ma4b6f94[m Improve database connection handling
+[33m365e402[m Improve order status management
+[33m3624923[m Add payment retry mechanism
+[33m16a546e[m Add payment validation
+[33m92036bd[m Initial payment platform structure
+[33mc02e37a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Add initial payment platform structure
+[33m2235f85[m Initial project setup
