@@ -6,3 +6,5 @@ def test_payment():
 # Added payment failure test
 
 # Added timeout failure scenario
+
+# Added duplicate payment scenario
