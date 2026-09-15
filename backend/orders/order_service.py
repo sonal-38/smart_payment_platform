@@ -8,3 +8,5 @@ def create_order(order_id: str, amount: float) -> dict:
     }
 
 # Added order status management
+
+# Synchronize order status after successful payment
