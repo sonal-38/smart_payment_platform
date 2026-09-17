@@ -25,3 +25,12 @@ function syntheticChange70() {
     return "Add fraud detection rule evaluation";
 }
 
+
+// Synthetic engineering change 101
+// Prevent duplicate payment requests with idempotency keys
+// Generated for AI Digital Shadow knowledge discovery testing.
+
+function syntheticChange101() {
+    return "Prevent duplicate payment requests with idempotency keys";
+}
+
